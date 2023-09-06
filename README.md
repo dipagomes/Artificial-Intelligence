@@ -10,4 +10,4 @@ in which two agents act alternately and the utility values at the end of the
 game are always equal and opposite. The optimal move for this game can be gained by
 using the minimax algorithm, where the opposition between the utility functions makes the situation adversarial, hence requiring an adversarial search
 supported by a minimax algorithm with the alpha-beta pruning concept in
-artificial intelligence
+artificial intelligence.
